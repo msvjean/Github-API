@@ -5,3 +5,7 @@
 .start-button {
     color: #fff;
 }
+
+.home-container button:hover {
+    color: #FFF;
+}
